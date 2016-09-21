@@ -1,7 +1,7 @@
 
 Evolving Spatially Aggregated Features from Satellite Imagery for Regional Modeling
 --------------------
-This repository contains the code that allows to replicate the experiments presented in the following paper:
+This repository contains the code used for experiments presented in the following paper:
 
 _Evolving Spatially Aggregated Features from Satellite Imagery for Regional Modeling_<br>
 S. Kriegman, M. Szubert, J. Bongard, C. Skalka<br>
