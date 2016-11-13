@@ -1,5 +1,5 @@
 
-Evolving Spatially Aggregated Features from Satellite Imagery for Regional Modeling
+Evolving Spatially Aggregated Features From Satellite Imagery for Regional Modeling
 --------------------
 This repository contains the code used for experiments presented in the following paper:
 
